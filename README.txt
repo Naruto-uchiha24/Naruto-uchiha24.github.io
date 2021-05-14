@@ -1,7 +1,7 @@
-## Personal Portfolio
+# Personal Portfolio
 
 
-#### It's just a basic Portfolio Website.
+## It's just a basic Portfolio Website.
 
-####link..........https://naruto-uchiha24.github.io/#
+## link..........https://naruto-uchiha24.github.io/#
 
